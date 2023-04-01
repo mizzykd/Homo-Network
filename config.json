@@ -1,6 +1,6 @@
 {
 	"Cnc": {
-		"Server": "127.0.0.1",
+		"Server": "192.168.0.1",
 		"Port": "1234",
 		"AdmLogin": "root"
 	},
